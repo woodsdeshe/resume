@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+
+.contact_list {
+    list-style: none;
+    column-count: 4;
+}
+
+.skills_list {
+    column-count: 3;
+}
