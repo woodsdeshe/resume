@@ -1,12 +1,25 @@
 body {
-    background-color: lightblue;
+    font-family: Monospace;
 }
 
 .contact_list {
     list-style: none;
     column-count: 4;
+    text-align: center;
+    padding-right: 50px;
 }
 
 .skills_list {
     column-count: 3;
+    padding-left: 10%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#headliner {
+    text-align: center;
+    text-decoration: underline;
+    background-color: lavender;
 }
